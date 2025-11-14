@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class MovementScript : MonoBehaviour
+public class MovementScriptRanged : MonoBehaviour
 {
     [Header("Prêdkoœæ ruchu")]
     public float moveSpeed = 1f;
@@ -24,12 +24,15 @@ public class MovementScript : MonoBehaviour
         }
     }
 
-    void OnCollisionEnter2D(Collision2D collision)
+    void OnTriggerEnter2D(Collider2D collision)
     {
-        // je¿eli napotka obiekt z innym tagiem w zasiêgu to siê zatrzyma
-        if (collision.gameObject.tag != ownTag)
+        if (collision.gameObject.tag != ownTag && collision.isTrigger == false)
         {
             canMove = false;
         }
+    }
+    void OnTriggerExit2D(Collider2D collision)
+    {
+        canMove = true;
     }
 }
