@@ -128,8 +128,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 287606815}
-  - component: {fileID: 287606814}
+  - component: {fileID: 287606817}
   - component: {fileID: 287606816}
+  - component: {fileID: 287606814}
   - component: {fileID: 287606812}
   m_Layer: 6
   m_Name: TestMobPlayerMelee
@@ -269,6 +270,22 @@ MonoBehaviour:
   moveSpeed: 2
   detectionRange: 0.5
   debugRay: 1
+--- !u!114 &287606817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 287606810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 785eff57cd95694469f0aa7e9c510086, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
+  armor: 50
+  damage: 20
+  CooldownBetweenAttacks: 0.5
 --- !u!1 &373187653
 GameObject:
   m_ObjectHideFlags: 0
@@ -311,8 +328,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 413977423}
-  - component: {fileID: 413977422}
+  - component: {fileID: 413977425}
   - component: {fileID: 413977424}
+  - component: {fileID: 413977422}
   - component: {fileID: 413977420}
   m_Layer: 6
   m_Name: TestMobPlayerRanged
@@ -450,8 +468,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 1
-  detectionRange: 4
+  detectionRange: 3
   debugRay: 1
+--- !u!114 &413977425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 413977418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 785eff57cd95694469f0aa7e9c510086, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 80
+  armor: 30
+  damage: 5
+  CooldownBetweenAttacks: 1
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -903,11 +937,12 @@ MonoBehaviour:
   roundStart: 2
   spawner: {fileID: 1163836998}
   waves:
-  - timeBetweenEnemies: 4
+  - timeBetweenEnemies: 3
     timeBetweenWaves: 1
     enemies:
+    - {fileID: 6335100913319771856, guid: 385e1b7da8bb84a4f865a3077a354545, type: 3}
     - {fileID: 5687900414455936945, guid: 72a74d434ac02a643b151ac143e91f36, type: 3}
-    - {fileID: 5687900414455936945, guid: 72a74d434ac02a643b151ac143e91f36, type: 3}
+    - {fileID: 6335100913319771856, guid: 385e1b7da8bb84a4f865a3077a354545, type: 3}
     enemiesLeft: 0
   - timeBetweenEnemies: 1
     timeBetweenWaves: 2

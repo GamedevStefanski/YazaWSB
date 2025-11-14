@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7794104474630677609}
   - component: {fileID: 4441933641197211622}
   - component: {fileID: -8228133308595689841}
-  - component: {fileID: 4935926886553234675}
+  - component: {fileID: 8093043101720056206}
   - component: {fileID: 4032426413608596114}
   m_Layer: 7
   m_Name: TestRanged
@@ -105,7 +105,7 @@ MonoBehaviour:
   moveSpeed: 1
   detectionRange: 4
   debugRay: 1
---- !u!114 &4935926886553234675
+--- !u!114 &8093043101720056206
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -114,10 +114,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 5687900414455936945}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6285d792c4af9f24a98829eb0525f138, type: 3}
+  m_Script: {fileID: 11500000, guid: 785eff57cd95694469f0aa7e9c510086, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 100
+  health: 80
+  armor: 30
+  damage: 25
+  CooldownBetweenAttacks: 1
 --- !u!61 &4032426413608596114
 BoxCollider2D:
   m_ObjectHideFlags: 0

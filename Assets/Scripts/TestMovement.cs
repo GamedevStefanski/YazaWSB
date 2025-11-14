@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using System.Runtime.CompilerServices;
+using UnityEngine;
 
 public class EnemyUnit : MonoBehaviour
 {
@@ -6,17 +8,17 @@ public class EnemyUnit : MonoBehaviour
     public float detectionRange = 2f;
     private string myTag;
     public bool debugRay = true;
+    private bool fighting = false;
 
     private bool isStopped = false;
     private Transform detectedTarget;
-    private Collider2D col2d;
+
     private float frontOffset;
 
     void Awake()
     {
         myTag = this.gameObject.tag;
-        col2d = GetComponent<Collider2D>();
-        frontOffset = col2d.bounds.extents.x;
+        frontOffset = GetComponent<Collider2D>().bounds.extents.x;
     }
 
     void Update()
@@ -55,6 +57,11 @@ public class EnemyUnit : MonoBehaviour
         {
             isStopped = true;
             detectedTarget = closestValidTarget;
+
+            // rozpocznij walkę
+            if(!fighting)
+                StartCoroutine(Fight(closestValidTarget.gameObject));
+
         }
         else
         {
@@ -62,6 +69,7 @@ public class EnemyUnit : MonoBehaviour
             if (isStopped && detectedTarget == null)
             {
                 isStopped = false;
+                fighting = false;
             }
         }
 
@@ -78,4 +86,42 @@ public class EnemyUnit : MonoBehaviour
             Debug.DrawRay(origin, dir * detectionRange, color);
         }
     }
+
+    IEnumerator Fight(GameObject target)
+    {
+        fighting = true;
+        if (target == null) 
+            yield break;
+
+        MobStats enemyStats = target.GetComponent<MobStats>();
+        MobStats thisStats = GetComponent<MobStats>();
+
+        while (target != null && target.activeInHierarchy)
+        {
+            if (enemyStats.health <= 0)
+                yield break;
+
+            if (thisStats.health <= 0)
+                yield break;
+
+            int dmg = thisStats.damage;
+
+            // armor first
+            if (enemyStats.armor > 0)
+            {
+                int armorDamage = Mathf.Min(enemyStats.armor, dmg);
+                enemyStats.armor -= armorDamage;
+                dmg -= armorDamage;
+            }
+
+            // health second
+            if (dmg > 0)
+            {
+                enemyStats.health -= dmg;
+            }
+
+            yield return new WaitForSeconds(thisStats.CooldownBetweenAttacks);
+        }
+    }
+
 }
