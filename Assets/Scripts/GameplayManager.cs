@@ -2,12 +2,16 @@ using UnityEngine;
 
 public class GameplayManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public int ink;
+    [SerializeField] private GameObject InkTextObject;
     void Start()
     {
         Physics2D.IgnoreLayerCollision(6, 6);
         Physics2D.IgnoreLayerCollision(7, 7);
     }
 
-
+    private void Update()
+    {
+        InkTextObject.GetComponent<TMPro.TextMeshProUGUI>().text = "Ink owned: " + ink;
+    }
 }

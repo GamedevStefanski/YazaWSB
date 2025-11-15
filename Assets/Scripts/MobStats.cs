@@ -6,11 +6,14 @@ public class MobStats : MonoBehaviour
     public int armor;
     public int damage;
     public float CooldownBetweenAttacks;
+    public int inkGranted;
 
     private WaveSpawner spawnerScript;
+    private GameplayManager gameplayManager;
 
-    private void Start()
+    private void Awake()
     {
+        gameplayManager = GameObject.Find("GameplayManager").GetComponent<GameplayManager>();
         spawnerScript = GetComponentInParent<WaveSpawner>();
     }
     private void Update()
@@ -24,6 +27,10 @@ public class MobStats : MonoBehaviour
     {
         Destroy(gameObject);
         if(this.gameObject.tag == "Enemy")
+        {
             spawnerScript.waves[spawnerScript.currentWave].enemiesLeft--;
+            gameplayManager.ink += inkGranted;
+        }
+            
     }
 }
