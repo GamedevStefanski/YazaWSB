@@ -607,8 +607,8 @@ MonoBehaviour:
     timeBetweenWaves: 1
     enemies:
     - {fileID: 6335100913319771856, guid: 385e1b7da8bb84a4f865a3077a354545, type: 3}
-    - {fileID: 5687900414455936945, guid: 72a74d434ac02a643b151ac143e91f36, type: 3}
     - {fileID: 6335100913319771856, guid: 385e1b7da8bb84a4f865a3077a354545, type: 3}
+    - {fileID: 5687900414455936945, guid: 72a74d434ac02a643b151ac143e91f36, type: 3}
     enemiesLeft: 0
   - timeBetweenEnemies: 1
     timeBetweenWaves: 2
@@ -1103,6 +1103,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestMobPlayerRanged
       objectReference: {fileID: 0}
+    - target: {fileID: 405417366981083322, guid: 226e3d134b492b044a6b5f68774a63e7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 405417366981083322, guid: 226e3d134b492b044a6b5f68774a63e7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 687855192549928302, guid: 226e3d134b492b044a6b5f68774a63e7, type: 3}
       propertyPath: m_LocalPosition.x
       value: -5.5200005
@@ -1141,6 +1149,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 687855192549928302, guid: 226e3d134b492b044a6b5f68774a63e7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1055860358661341936, guid: 226e3d134b492b044a6b5f68774a63e7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1055860358661341936, guid: 226e3d134b492b044a6b5f68774a63e7, type: 3}
+      propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8685709347714876644, guid: 226e3d134b492b044a6b5f68774a63e7, type: 3}
@@ -1203,6 +1219,30 @@ PrefabInstance:
     - target: {fileID: 1634415004841533039, guid: 61191e289558a074c8ec1cad63aca614, type: 3}
       propertyPath: m_Name
       value: TestMobPlayerMelee
+      objectReference: {fileID: 0}
+    - target: {fileID: 3015512318700658885, guid: 61191e289558a074c8ec1cad63aca614, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3015512318700658885, guid: 61191e289558a074c8ec1cad63aca614, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947792507387081930, guid: 61191e289558a074c8ec1cad63aca614, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5947792507387081930, guid: 61191e289558a074c8ec1cad63aca614, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7654865394310641162, guid: 61191e289558a074c8ec1cad63aca614, type: 3}
+      propertyPath: maxArmor
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7654865394310641162, guid: 61191e289558a074c8ec1cad63aca614, type: 3}
+      propertyPath: maxHealth
+      value: 150
       objectReference: {fileID: 0}
     - target: {fileID: 7654865394310641162, guid: 61191e289558a074c8ec1cad63aca614, type: 3}
       propertyPath: gameplayManager

@@ -2,11 +2,16 @@ using UnityEngine;
 
 public class MobStats : MonoBehaviour
 {
-    public int health;
-    public int armor;
-    public int damage;
+    [Header("Customazible Parameters")]
+    public float maxHealth;
+    public float maxArmor;
+    public float damage;
     public float CooldownBetweenAttacks;
     public int inkGranted;
+
+    [Header("Statistics to read only - leave values at 0")]
+    public float currentHealth;
+    public float currentArmor;
 
     private WaveSpawner spawnerScript;
     private GameplayManager gameplayManager;
@@ -15,10 +20,12 @@ public class MobStats : MonoBehaviour
     {
         gameplayManager = GameObject.Find("GameplayManager").GetComponent<GameplayManager>();
         spawnerScript = GetComponentInParent<WaveSpawner>();
+        currentHealth = maxHealth;
+        currentArmor = maxArmor;
     }
     private void Update()
     {
-        if (health <= 0)
+        if (currentHealth <= 0)
         {
             Death();
         }
