@@ -105,7 +105,7 @@ GameObject:
   - component: {fileID: 8892082204819541095}
   - component: {fileID: 3888032262854869278}
   m_Layer: 6
-  m_Name: TestMobPlayerMelee
+  m_Name: SwordDog
   m_TagString: Friendly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -141,8 +141,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 150
   maxArmor: 50
-  damage: 20
-  CooldownBetweenAttacks: 0.5
+  damage: 10
+  CooldownBetweenAttacks: 1
+  InkCost: 3
   inkGranted: 1
   currentHealth: 0
   currentArmor: 0
