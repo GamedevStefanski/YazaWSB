@@ -40,5 +40,7 @@ public class MobCombat : MonoBehaviour
             target.GetComponent<Healthbars>().UpdateHealthBars();
             yield return new WaitForSeconds(thisStats.CooldownBetweenAttacks);
         }
+        target = null;
+        fighting = false;
     }
 }

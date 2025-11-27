@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 1785740335432870982}
   - component: {fileID: 304869900809582261}
   m_Layer: 6
-  m_Name: TestMobPlayerRanged
+  m_Name: BowDog
   m_TagString: Friendly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -52,8 +52,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 100
   maxArmor: 30
-  damage: 50
-  CooldownBetweenAttacks: 1
+  damage: 15
+  CooldownBetweenAttacks: 1.5
+  InkCost: 4
   inkGranted: 1
   currentHealth: 0
   currentArmor: 0

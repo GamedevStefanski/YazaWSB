@@ -7,6 +7,9 @@ public class MobStats : MonoBehaviour
     public float maxArmor;
     public float damage;
     public float CooldownBetweenAttacks;
+
+    [Header("Change cost for friendly, granted for enemy mobs")]
+    public int InkCost;
     public int inkGranted;
 
     [Header("Statistics to read only - leave values at 0")]

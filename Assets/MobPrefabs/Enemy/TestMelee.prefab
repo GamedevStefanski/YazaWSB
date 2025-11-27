@@ -315,10 +315,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 785eff57cd95694469f0aa7e9c510086, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
+  maxHealth: 140
   maxArmor: 40
-  damage: 15
-  CooldownBetweenAttacks: 0.5
+  damage: 10
+  CooldownBetweenAttacks: 1
+  InkCost: 0
   inkGranted: 3
   currentHealth: 0
   currentArmor: 0
