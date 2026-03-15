@@ -141,8 +141,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 150
   maxArmor: 50
-  damage: 10
+  damage: 20
   CooldownBetweenAttacks: 1
+  isTurret: 0
   InkCost: 3
   inkGranted: 1
   currentHealth: 0
@@ -159,7 +160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15bb7b5d4e3afbe43b7418257b845a8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 2
+  moveSpeed: 5
   detectionRange: 0.5
   debugRay: 1
 --- !u!114 &9062280200274688553

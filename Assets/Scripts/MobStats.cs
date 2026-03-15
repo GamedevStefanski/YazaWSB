@@ -7,6 +7,7 @@ public class MobStats : MonoBehaviour
     public float maxArmor;
     public float damage;
     public float CooldownBetweenAttacks;
+    [SerializeField] private bool isTurret;
 
     [Header("Change cost for friendly, granted for enemy mobs")]
     public int InkCost;
@@ -35,11 +36,12 @@ public class MobStats : MonoBehaviour
     }
     void Death()
     {
-        if (this.gameObject.tag == "Enemy")
+        if (this.gameObject.tag == "Enemy" && !isTurret)
         {
             spawnerScript.waves[spawnerScript.currentWave].enemiesLeft--;
-            gameplayManager.ink += inkGranted;
+            
         }
+        gameplayManager.ink += inkGranted;
         Destroy(gameObject);
     }
 }
