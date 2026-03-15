@@ -11,7 +11,7 @@ public class ShopButtons : MonoBehaviour
     private void Awake()
     {
         gameplayManager = GameObject.Find("GameplayManager").GetComponent<GameplayManager>();
-        friendlySpawner = GameObject.Find("FriendlySpawner");
+        friendlySpawner = GameObject.Find("PlayerFortress");
     }
 
     private void Start()

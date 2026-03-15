@@ -35,12 +35,11 @@ public class MobStats : MonoBehaviour
     }
     void Death()
     {
-        Destroy(gameObject);
-        if(this.gameObject.tag == "Enemy")
+        if (this.gameObject.tag == "Enemy")
         {
             spawnerScript.waves[spawnerScript.currentWave].enemiesLeft--;
             gameplayManager.ink += inkGranted;
         }
-            
+        Destroy(gameObject);
     }
 }

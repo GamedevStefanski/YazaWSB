@@ -325,7 +325,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mob: {fileID: 1634415004841533039, guid: 61191e289558a074c8ec1cad63aca614, type: 3}
-  gameplayManager: {fileID: 0}
 --- !u!222 &8340551621253880702
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -473,7 +472,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mob: {fileID: 105901912830737914, guid: 226e3d134b492b044a6b5f68774a63e7, type: 3}
-  gameplayManager: {fileID: 0}
 --- !u!222 &2202001293836187672
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -623,8 +621,8 @@ MonoBehaviour:
     m_Right: 0
     m_Top: 0
     m_Bottom: 0
-  m_ChildAlignment: 6
-  m_StartCorner: 2
+  m_ChildAlignment: 1
+  m_StartCorner: 1
   m_StartAxis: 0
   m_CellSize: {x: 160, y: 60}
   m_Spacing: {x: 20, y: 20}
