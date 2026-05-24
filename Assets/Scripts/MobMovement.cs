@@ -9,7 +9,7 @@ public class MobMovement : MonoBehaviour
     private string myTag;
     public bool debugRay = true;
 
-    private bool isStopped = false;
+    public bool isStopped = false;
     private Transform detectedTarget;
 
     private float frontOffset;
@@ -18,6 +18,7 @@ public class MobMovement : MonoBehaviour
     {
         myTag = this.gameObject.tag;
         frontOffset = GetComponent<Collider2D>().bounds.extents.x;
+        detectionRange += Random.Range(-0.1f, 0.1f);
     }
 
     void Update()
@@ -63,10 +64,11 @@ public class MobMovement : MonoBehaviour
         }
         else
         {
-            // po pokonaniu przeciwnika
-            if (isStopped && detectedTarget == null)
+            // Jeśli stoisz, ale twój cel zniknął ALBO twój cel ma 0 życia (właśnie umiera)
+            if (isStopped && (detectedTarget == null || detectedTarget.GetComponent<MobStats>().currentHealth <= 0))
             {
                 isStopped = false;
+                detectedTarget = null; // Czyścimy cel
                 GetComponent<MobCombat>().fighting = false;
             }
         }

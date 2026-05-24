@@ -1,0 +1,83 @@
+
+SPAWNER_TENT_.png
+size: 1555,1963
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ENTRANCE_01
+  rotate: true
+  xy: 1051, 1417
+  size: 545, 502
+  orig: 571, 554
+  offset: 15, 0
+  index: -1
+ENTRANCE_02
+  rotate: false
+  xy: 1051, 998
+  size: 404, 493
+  orig: 404, 494
+  offset: 0, 1
+  index: -1
+ENTRANCE_03
+  rotate: false
+  xy: 1215, 509
+  size: 324, 492
+  orig: 336, 492
+  offset: 12, 0
+  index: -1
+ENTRANCE_04
+  rotate: 180
+  xy: 1049, 725
+  size: 234, 492
+  orig: 276, 492
+  offset: 4, 0
+  index: -1
+TENT_bg
+  rotate: 180
+  xy: 985, 6
+  size: 524, 679
+  orig: 524, 688
+  offset: 0, 0
+  index: -1
+TENT_vanish_01
+  rotate: false
+  xy: 3, 1284
+  size: 522, 677
+  orig: 524, 687
+  offset: 1, 1
+  index: -1
+TENT_vanish_02
+  rotate: false
+  xy: 3, 619
+  size: 522, 663
+  orig: 524, 664
+  offset: 1, 1
+  index: -1
+TENT_vanish_03
+  rotate: false
+  xy: 3, 3
+  size: 522, 614
+  orig: 524, 616
+  offset: 1, 1
+  index: -1
+TENT_vanish_04
+  rotate: false
+  xy: 527, 1347
+  size: 522, 614
+  orig: 524, 616
+  offset: 1, 1
+  index: -1
+TENT_vanish_05
+  rotate: false
+  xy: 527, 731
+  size: 522, 614
+  orig: 524, 616
+  offset: 1, 1
+  index: -1
+TENT_vanish_06
+  rotate: false
+  xy: 527, 196
+  size: 520, 533
+  orig: 522, 536
+  offset: 1, 2
+  index: -1

@@ -16,10 +16,16 @@ public class MobCombat : MonoBehaviour
         while (target != null && target.activeInHierarchy)
         {
             if (enemyStats.currentHealth <= 0)
+            {
+                fighting = false; // Resetujemy stan walki przed wyjœciem!
                 yield break;
+            }
 
             if (thisStats.currentHealth <= 0)
+            {
+                fighting = false; // Resetujemy stan walki przed wyjœciem!
                 yield break;
+            }
 
             float dmg = thisStats.damage;
 

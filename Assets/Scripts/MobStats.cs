@@ -7,6 +7,7 @@ public class MobStats : MonoBehaviour
     public float maxArmor;
     public float damage;
     public float CooldownBetweenAttacks;
+    private bool isDead = false;
     [SerializeField] private bool isTurret;
 
     [Header("Change cost for friendly, granted for enemy mobs")]
@@ -26,11 +27,22 @@ public class MobStats : MonoBehaviour
         spawnerScript = GetComponentInParent<WaveSpawner>();
         currentHealth = maxHealth;
         currentArmor = maxArmor;
+        CooldownBetweenAttacks += Random.Range(-0.15f, 0.15f);
     }
     private void Update()
     {
-        if (currentHealth <= 0)
+        // Sprawdzamy czy zdrowie spad³o i czy jeszcze nie uruchomiliœmy logiki œmierci
+        if (currentHealth <= 0 && !isDead)
         {
+            isDead = true;
+
+            // 1. Wy³¹czamy fizykê, ¿eby Raycasty innych jednostek nas ignorowa³y
+            GetComponent<Collider2D>().enabled = false;
+
+            // 2. Wy³¹czamy skrypty zachowania, ¿eby trup nie chodzi³ ani nie walczy³
+            GetComponent<MobMovement>().enabled = false;
+            GetComponent<MobCombat>().enabled = false;
+
             Death();
         }
     }
@@ -42,6 +54,6 @@ public class MobStats : MonoBehaviour
             
         }
         gameplayManager.ink += inkGranted;
-        Destroy(gameObject);
+        Destroy(gameObject, 2f);
     }
 }

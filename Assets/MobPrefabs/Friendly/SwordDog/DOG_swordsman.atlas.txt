@@ -1,0 +1,251 @@
+
+DOG_swordsman.png
+size: 181,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_Back
+  rotate: true
+  xy: 80, 127
+  size: 136, 59
+  orig: 137, 61
+  offset: 0, 1
+  index: -1
+Arm_Front
+  rotate: 180
+  xy: 64, 381
+  size: 114, 123
+  orig: 116, 123
+  offset: 1, 0
+  index: -1
+Ear_Back
+  rotate: false
+  xy: 87, 871
+  size: 74, 32
+  orig: 74, 37
+  offset: 0, 4
+  index: -1
+Ear_Front
+  rotate: false
+  xy: 91, 1455
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+Finger
+  rotate: false
+  xy: 91, 1322
+  size: 25, 17
+  orig: 28, 21
+  offset: 1, 2
+  index: -1
+Head
+  rotate: false
+  xy: 91, 1493
+  size: 69, 78
+  orig: 69, 78
+  offset: 0, 0
+  index: -1
+Leg_Back
+  rotate: false
+  xy: 3, 171
+  size: 100, 209
+  orig: 102, 209
+  offset: 1, 0
+  index: -1
+Leg_Front
+  rotate: false
+  xy: 44, 4
+  size: 67, 209
+  orig: 69, 211
+  offset: 1, 2
+  index: -1
+Object_01
+  rotate: false
+  xy: 91, 1623
+  size: 84, 54
+  orig: 84, 57
+  offset: 0, 0
+  index: -1
+Object_01_colour
+  rotate: false
+  xy: 91, 1572
+  size: 54, 49
+  orig: 56, 51
+  offset: 1, 1
+  index: -1
+Object_02_Back
+  rotate: false
+  xy: 63, 420
+  size: 41, 202
+  orig: 43, 204
+  offset: 1, 0
+  index: -1
+Object_02_Back_colour
+  rotate: false
+  xy: 87, 1038
+  size: 38, 196
+  orig: 40, 199
+  offset: 1, 2
+  index: -1
+Object_03
+  rotate: true
+  xy: 86, 585
+  size: 102, 88
+  orig: 102, 88
+  offset: 0, 0
+  index: -1
+Object_03_colour
+  rotate: true
+  xy: 91, 1822
+  size: 100, 84
+  orig: 100, 84
+  offset: 0, 0
+  index: -1
+Object_04
+  rotate: false
+  xy: 3, 372
+  size: 58, 250
+  orig: 58, 250
+  offset: 0, 0
+  index: -1
+Shield_anger
+  rotate: false
+  xy: 3, 1845
+  size: 86, 201
+  orig: 88, 205
+  offset: 1, 1
+  index: -1
+Shield_death
+  rotate: false
+  xy: 3, 1642
+  size: 86, 201
+  orig: 88, 205
+  offset: 1, 1
+  index: -1
+Shield_open
+  rotate: false
+  xy: 3, 1439
+  size: 86, 201
+  orig: 88, 205
+  offset: 1, 1
+  index: -1
+Shield_smile
+  rotate: false
+  xy: 3, 1236
+  size: 86, 201
+  orig: 88, 205
+  offset: 1, 1
+  index: -1
+Tail
+  rotate: false
+  xy: 91, 1678
+  size: 80, 151
+  orig: 81, 152
+  offset: 1, 1
+  index: -1
+Torso
+  rotate: false
+  xy: 3, 624
+  size: 99, 209
+  orig: 100, 209
+  offset: 0, 0
+  index: -1
+eye_closed
+  rotate: false
+  xy: 91, 1362
+  size: 24, 19
+  orig: 26, 22
+  offset: 1, 2
+  index: -1
+eye_closed_laught
+  rotate: false
+  xy: 91, 1341
+  size: 24, 19
+  orig: 29, 20
+  offset: 1, 1
+  index: -1
+eye_crazy
+  rotate: false
+  xy: 91, 1441
+  size: 28, 19
+  orig: 30, 22
+  offset: 1, 2
+  index: -1
+eye_creep
+  rotate: false
+  xy: 91, 1383
+  size: 27, 17
+  orig: 32, 20
+  offset: 1, 2
+  index: -1
+eye_normal
+  rotate: false
+  xy: 91, 1421
+  size: 27, 18
+  orig: 32, 21
+  offset: 1, 2
+  index: -1
+eye_wary
+  rotate: false
+  xy: 91, 1402
+  size: 28, 17
+  orig: 33, 19
+  offset: 1, 1
+  index: -1
+face_closed_normal
+  rotate: false
+  xy: 91, 1976
+  size: 83, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+face_closed_smile
+  rotate: false
+  xy: 91, 1910
+  size: 83, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+face_open_normal_tongue
+  rotate: false
+  xy: 87, 898
+  size: 83, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+face_open_smile_tongue
+  rotate: false
+  xy: 87, 965
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+face_open_wide_anger
+  rotate: false
+  xy: 70, 263
+  size: 84, 81
+  orig: 84, 83
+  offset: 0, 1
+  index: -1
+face_open_wide_sad
+  rotate: false
+  xy: 80, 776
+  size: 84, 81
+  orig: 84, 83
+  offset: 0, 1
+  index: -1
+shield_sad_colour
+  rotate: false
+  xy: 3, 1035
+  size: 82, 199
+  orig: 84, 200
+  offset: 1, 1
+  index: -1
+shield_smile_colour
+  rotate: false
+  xy: 3, 834
+  size: 82, 199
+  orig: 84, 200
+  offset: 1, 1
+  index: -1

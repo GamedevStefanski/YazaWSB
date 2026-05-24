@@ -1,0 +1,3406 @@
+fileFormatVersion: 2
+guid: bdf4f6e6920013f47b21eb0e602d9886
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6286996185445969893
+    second: SPAWNER_TENT__0
+  - first:
+      213: -6977781302534915248
+    second: SPAWNER_TENT__1
+  - first:
+      213: 641093369747433472
+    second: SPAWNER_TENT__2
+  - first:
+      213: -4860526037037646750
+    second: SPAWNER_TENT__3
+  - first:
+      213: -5301183705623240997
+    second: SPAWNER_TENT__4
+  - first:
+      213: -1800127083227905964
+    second: SPAWNER_TENT__5
+  - first:
+      213: -6305754170550112393
+    second: SPAWNER_TENT__6
+  - first:
+      213: -4854238959981627229
+    second: SPAWNER_TENT__7
+  - first:
+      213: 3632626346612309859
+    second: SPAWNER_TENT__8
+  - first:
+      213: 8358466218045900176
+    second: SPAWNER_TENT__9
+  - first:
+      213: 180115338702292816
+    second: SPAWNER_TENT__10
+  - first:
+      213: 5897380979660317782
+    second: SPAWNER_TENT__11
+  - first:
+      213: 1930944729568794672
+    second: SPAWNER_TENT__12
+  - first:
+      213: 6097875862627674688
+    second: SPAWNER_TENT__13
+  - first:
+      213: -22877774065691958
+    second: SPAWNER_TENT__14
+  - first:
+      213: 7991287091583247451
+    second: SPAWNER_TENT__15
+  - first:
+      213: -1818087045436916573
+    second: SPAWNER_TENT__16
+  - first:
+      213: -7054477731076111359
+    second: SPAWNER_TENT__17
+  - first:
+      213: -1264669144284686430
+    second: SPAWNER_TENT__18
+  - first:
+      213: 846969983326667644
+    second: SPAWNER_TENT__19
+  - first:
+      213: -1234965696130249522
+    second: SPAWNER_TENT__20
+  - first:
+      213: -8363661887701085966
+    second: SPAWNER_TENT__21
+  - first:
+      213: -6225741654615804168
+    second: SPAWNER_TENT__22
+  - first:
+      213: 8191382925746390943
+    second: SPAWNER_TENT__23
+  - first:
+      213: -8895969909708327240
+    second: SPAWNER_TENT__24
+  - first:
+      213: 6488570292819246542
+    second: SPAWNER_TENT__25
+  - first:
+      213: 7398756237183898282
+    second: SPAWNER_TENT__26
+  - first:
+      213: 5406229244482957464
+    second: SPAWNER_TENT__27
+  - first:
+      213: 4948955683238922439
+    second: SPAWNER_TENT__28
+  - first:
+      213: -2264426102798222210
+    second: SPAWNER_TENT__29
+  - first:
+      213: -6483724182942290123
+    second: SPAWNER_TENT__30
+  - first:
+      213: -2040286322382879541
+    second: SPAWNER_TENT__31
+  - first:
+      213: 4756065514276718058
+    second: SPAWNER_TENT__32
+  - first:
+      213: 813303935182057090
+    second: SPAWNER_TENT__33
+  - first:
+      213: -4957155062891550455
+    second: SPAWNER_TENT__34
+  - first:
+      213: -5437046531776774000
+    second: SPAWNER_TENT__35
+  - first:
+      213: -958238719973387779
+    second: SPAWNER_TENT__36
+  - first:
+      213: 8086374932480417378
+    second: SPAWNER_TENT__37
+  - first:
+      213: 4314729804633123878
+    second: SPAWNER_TENT__38
+  - first:
+      213: 3890983377145472864
+    second: SPAWNER_TENT__39
+  - first:
+      213: -7912299591186452274
+    second: SPAWNER_TENT__40
+  - first:
+      213: 43196867002496150
+    second: SPAWNER_TENT__41
+  - first:
+      213: 4916968139152883424
+    second: SPAWNER_TENT__42
+  - first:
+      213: 5116105010125039907
+    second: SPAWNER_TENT__43
+  - first:
+      213: 1489444433037246552
+    second: SPAWNER_TENT__44
+  - first:
+      213: 8378675375748495122
+    second: SPAWNER_TENT__45
+  - first:
+      213: 2416404107477673920
+    second: SPAWNER_TENT__46
+  - first:
+      213: 5332868562119184141
+    second: SPAWNER_TENT__47
+  - first:
+      213: -2281647616359992514
+    second: SPAWNER_TENT__48
+  - first:
+      213: 6907945486211733252
+    second: SPAWNER_TENT__49
+  - first:
+      213: 1971808964692779722
+    second: SPAWNER_TENT__50
+  - first:
+      213: 622232462610642615
+    second: SPAWNER_TENT__51
+  - first:
+      213: 7178861514238117905
+    second: SPAWNER_TENT__52
+  - first:
+      213: -7583993381033786461
+    second: SPAWNER_TENT__53
+  - first:
+      213: 2177347783640450386
+    second: SPAWNER_TENT__54
+  - first:
+      213: 4761119702729663479
+    second: SPAWNER_TENT__55
+  - first:
+      213: 3373182414547356349
+    second: SPAWNER_TENT__56
+  - first:
+      213: -4349281463589729100
+    second: SPAWNER_TENT__57
+  - first:
+      213: 2546641910724604901
+    second: SPAWNER_TENT__58
+  - first:
+      213: -7975383732011205877
+    second: SPAWNER_TENT__59
+  - first:
+      213: 8385025024774753752
+    second: SPAWNER_TENT__60
+  - first:
+      213: 6889942358502063666
+    second: SPAWNER_TENT__61
+  - first:
+      213: 4402600516365994483
+    second: SPAWNER_TENT__62
+  - first:
+      213: 4613278036462545216
+    second: SPAWNER_TENT__63
+  - first:
+      213: 1657636932546278977
+    second: SPAWNER_TENT__64
+  - first:
+      213: 337936932431364668
+    second: SPAWNER_TENT__65
+  - first:
+      213: 3301683553486732063
+    second: SPAWNER_TENT__66
+  - first:
+      213: 6717501320636963528
+    second: SPAWNER_TENT__67
+  - first:
+      213: 870754540385114060
+    second: SPAWNER_TENT__68
+  - first:
+      213: -6368767966650583386
+    second: SPAWNER_TENT__69
+  - first:
+      213: -100811257026760236
+    second: SPAWNER_TENT__70
+  - first:
+      213: -7820042015252851146
+    second: SPAWNER_TENT__71
+  - first:
+      213: -1201447394469801109
+    second: SPAWNER_TENT__72
+  - first:
+      213: -6224952423251232661
+    second: SPAWNER_TENT__73
+  - first:
+      213: 9191006808330652553
+    second: SPAWNER_TENT__74
+  - first:
+      213: 335973869745326851
+    second: SPAWNER_TENT__75
+  - first:
+      213: 3026089453310530852
+    second: SPAWNER_TENT__76
+  - first:
+      213: 8508852163249288930
+    second: SPAWNER_TENT__77
+  - first:
+      213: 4050655770789658920
+    second: SPAWNER_TENT__78
+  - first:
+      213: -3171147749662896752
+    second: SPAWNER_TENT__79
+  - first:
+      213: 1381594814556733936
+    second: SPAWNER_TENT__80
+  - first:
+      213: -4940366826912386455
+    second: SPAWNER_TENT__81
+  - first:
+      213: -6930117526816746495
+    second: SPAWNER_TENT__82
+  - first:
+      213: 7873374816334762740
+    second: SPAWNER_TENT__83
+  - first:
+      213: 2236004128999868964
+    second: SPAWNER_TENT__84
+  - first:
+      213: -1302019997907344442
+    second: SPAWNER_TENT__85
+  - first:
+      213: -5398467317914832870
+    second: SPAWNER_TENT__86
+  - first:
+      213: 5707085819954233744
+    second: SPAWNER_TENT__87
+  - first:
+      213: 6006769762631216999
+    second: SPAWNER_TENT__88
+  - first:
+      213: -7043101108720990024
+    second: SPAWNER_TENT__89
+  - first:
+      213: -303490625699325011
+    second: SPAWNER_TENT__90
+  - first:
+      213: 603956799488987292
+    second: SPAWNER_TENT__91
+  - first:
+      213: -93343835471560432
+    second: SPAWNER_TENT__92
+  - first:
+      213: -6728486402551630427
+    second: SPAWNER_TENT__93
+  - first:
+      213: 7802502605567948465
+    second: SPAWNER_TENT__94
+  - first:
+      213: 1364751027816103546
+    second: SPAWNER_TENT__95
+  - first:
+      213: -114610149889546453
+    second: SPAWNER_TENT__96
+  - first:
+      213: -9186533901280086007
+    second: SPAWNER_TENT__97
+  - first:
+      213: -139417251988349137
+    second: SPAWNER_TENT__98
+  - first:
+      213: -1131447459107928919
+    second: SPAWNER_TENT__99
+  - first:
+      213: 4979852025564609784
+    second: SPAWNER_TENT__100
+  - first:
+      213: 4373869083544510356
+    second: SPAWNER_TENT__101
+  - first:
+      213: -2806827149749249094
+    second: SPAWNER_TENT__102
+  - first:
+      213: -5760964252904354348
+    second: SPAWNER_TENT__103
+  - first:
+      213: 1311092444445431403
+    second: SPAWNER_TENT__104
+  - first:
+      213: -7390834658508078305
+    second: SPAWNER_TENT__105
+  - first:
+      213: 8519009607615745718
+    second: SPAWNER_TENT__106
+  - first:
+      213: 4602437538021548015
+    second: SPAWNER_TENT__107
+  - first:
+      213: -4565926910383281696
+    second: SPAWNER_TENT__108
+  - first:
+      213: 5557435530155952551
+    second: SPAWNER_TENT__109
+  - first:
+      213: 3306665413227209046
+    second: SPAWNER_TENT__110
+  - first:
+      213: 4254519295328347111
+    second: SPAWNER_TENT__111
+  - first:
+      213: 124366900721996069
+    second: SPAWNER_TENT__112
+  - first:
+      213: 4138358197193026655
+    second: SPAWNER_TENT__113
+  - first:
+      213: -6382140232145171936
+    second: SPAWNER_TENT__114
+  - first:
+      213: -8527391310426735573
+    second: SPAWNER_TENT__115
+  - first:
+      213: -1139615530872348539
+    second: SPAWNER_TENT__116
+  - first:
+      213: -5952544953159612945
+    second: SPAWNER_TENT__117
+  - first:
+      213: 1811189083711022102
+    second: SPAWNER_TENT__118
+  - first:
+      213: 4567571028057045806
+    second: SPAWNER_TENT__119
+  - first:
+      213: -2965735685108968696
+    second: SPAWNER_TENT__120
+  - first:
+      213: -834529491224576280
+    second: SPAWNER_TENT__121
+  - first:
+      213: 8179658541211016173
+    second: SPAWNER_TENT__122
+  - first:
+      213: 2561561161904136352
+    second: SPAWNER_TENT__123
+  - first:
+      213: -7196705736797432211
+    second: SPAWNER_TENT__124
+  - first:
+      213: 6158651842158860687
+    second: SPAWNER_TENT__125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPAWNER_TENT__0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1191
+        width: 524
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef2eb188b5ef3750800000000000000
+      internalID: 6286996185445969893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1766
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b3b0e00e0f92f90800000000000000
+      internalID: -6977781302534915248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1780
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00867abe50f95e800800000000000000
+      internalID: 641093369747433472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1785
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c75dc4251fb8cb0800000000000000
+      internalID: -4860526037037646750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1775
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdedc31b1896e66b0800000000000000
+      internalID: -5301183705623240997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1769
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45004ad84f9a407e0800000000000000
+      internalID: -1800127083227905964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1782
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f2c6fbdf57d78a0800000000000000
+      internalID: -6305754170550112393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1770
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8fe6f726742acb0800000000000000
+      internalID: -4854238959981627229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1759
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f3d8f6a6ea96230800000000000000
+      internalID: 3632626346612309859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1774
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0958ab18dbc3ff370800000000000000
+      internalID: 8358466218045900176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1762
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05703fd32f5ef7200800000000000000
+      internalID: 180115338702292816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1768
+        width: 179
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6546ccd51c4b7d150800000000000000
+      internalID: 5897380979660317782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__12
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1767
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0385cde30081cca10800000000000000
+      internalID: 1930944729568794672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__13
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1764
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ae9540ac100a450800000000000000
+      internalID: 6097875862627674688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__14
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1278
+        width: 843
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2109329c8beaff0800000000000000
+      internalID: -22877774065691958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__15
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1376
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54ebf72541c6ee60800000000000000
+      internalID: 7991287091583247451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1370
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac3efdf67bd4c6e0800000000000000
+      internalID: -1818087045436916573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__17
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 963
+        width: 323
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1040e4b31e5791e90800000000000000
+      internalID: -7054477731076111359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__18
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1230
+        width: 522
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a793802d1ef27ee0800000000000000
+      internalID: -1264669144284686430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__19
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1350
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73ca9f56ba01cb00800000000000000
+      internalID: 846969983326667644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__20
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1335
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc0d541e358cdee0800000000000000
+      internalID: -1234965696130249522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__21
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1347
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f09a1263dd4eeb80800000000000000
+      internalID: -8363661887701085966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1187
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6b54553f8b999a0800000000000000
+      internalID: -6225741654615804168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1200
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9740540f53ada170800000000000000
+      internalID: 8191382925746390943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1202
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6754fff7a2b8480800000000000000
+      internalID: -8895969909708327240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1195
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdb4abad480c0a50800000000000000
+      internalID: 6488570292819246542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__26
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1200
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa25d01f899ada660800000000000000
+      internalID: 7398756237183898282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8903cbbbad8c60b40800000000000000
+      internalID: 5406229244482957464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__28
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 745
+        width: 231
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c84b9429f83ea440800000000000000
+      internalID: 4948955683238922439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 680
+        width: 524
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf69af4742390e0800000000000000
+      internalID: -2264426102798222210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1169
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f6d16353f2506a0800000000000000
+      internalID: -6483724182942290123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1190
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4c74256627fa3e0800000000000000
+      internalID: -2040286322382879541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1189
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae503f2f260f00240800000000000000
+      internalID: 4756065514276718058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__33
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1184
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e24f6be9f694b00800000000000000
+      internalID: 813303935182057090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1187
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909e1d30cb5a43bb0800000000000000
+      internalID: -4957155062891550455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__35
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1010
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0900d2e6cfabb84b0800000000000000
+      internalID: -5437046531776774000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__36
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1015
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df116fd06f6a3b2f0800000000000000
+      internalID: -958238719973387779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__37
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 995
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e5e1b5823983070800000000000000
+      internalID: 8086374932480417378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__38
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1016
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ca2fa95eff0eb30800000000000000
+      internalID: 4314729804633123878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__39
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 903
+        width: 162
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067a4b524cc8ff530800000000000000
+      internalID: 3890983377145472864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__40
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 984
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0fcd6617dd13290800000000000000
+      internalID: -7912299591186452274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__41
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 996
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694f7195257799000800000000000000
+      internalID: 43196867002496150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 988
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eefe1aa8749c3440800000000000000
+      internalID: 4916968139152883424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__43
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 986
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3296912866e000740800000000000000
+      internalID: 5116105010125039907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__44
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 971
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8504ed702d19ba410800000000000000
+      internalID: 1489444433037246552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__45
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 974
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2173dc3bcd8074470800000000000000
+      internalID: 8378675375748495122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__46
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 987
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7600cabbac88120800000000000000
+      internalID: 2416404107477673920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__47
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 969
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f46f6d3b7220a40800000000000000
+      internalID: 5332868562119184141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__48
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 987
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33fe34e495f550e0800000000000000
+      internalID: -2281647616359992514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__49
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 981
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407d961e1d3fddf50800000000000000
+      internalID: 6907945486211733252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__50
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 970
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2a1796ec54d5b10800000000000000
+      internalID: 1971808964692779722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__51
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 955
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6bf95c02d92a800800000000000000
+      internalID: 622232462610642615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__52
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 970
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118c2ef038070a360800000000000000
+      internalID: 7178861514238117905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__53
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 965
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a34190a33e30c690800000000000000
+      internalID: -7583993381033786461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__54
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 970
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2558f5ce54e773e10800000000000000
+      internalID: 2177347783640450386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__55
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 975
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3a056e425e21240800000000000000
+      internalID: 4761119702729663479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__56
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 954
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba80bdb883ffce20800000000000000
+      internalID: 3373182414547356349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__57
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 959
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc0b866d8f34a3c0800000000000000
+      internalID: -4349281463589729100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__58
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 865
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3bcda335d775320800000000000000
+      internalID: 2546641910724604901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__59
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 940
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bfa0a40ceb15190800000000000000
+      internalID: -7975383732011205877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__60
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 938
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddc57295d79d5470800000000000000
+      internalID: 8385025024774753752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__61
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 956
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ebe61121efd9f50800000000000000
+      internalID: 6889942358502063666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__62
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 953
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f942f9f7dd291d30800000000000000
+      internalID: 4402600516365994483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__63
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 951
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04926759ee7a50040800000000000000
+      internalID: 4613278036462545216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__64
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 962
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1463df2f10c110710800000000000000
+      internalID: 1657636932546278977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__65
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 959
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c328e0e79d790b400800000000000000
+      internalID: 337936932431364668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__66
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 960
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b7356e2bfe1dd20800000000000000
+      internalID: 3301683553486732063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__67
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 957
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca98ca3cdb593d50800000000000000
+      internalID: 6717501320636963528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__68
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 473
+        width: 402
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7963a14aa851c00800000000000000
+      internalID: 870754540385114060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__69
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 942
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6b7ea07479d97a0800000000000000
+      internalID: -6368767966650583386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__70
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 947
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d13f8322b8d99ef0800000000000000
+      internalID: -100811257026760236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__71
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 952
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63659303831a97390800000000000000
+      internalID: -7820042015252851146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__72
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 942
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b631f44d5f9935fe0800000000000000
+      internalID: -1201447394469801109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__73
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 946
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68376490c68c99a0800000000000000
+      internalID: -6224952423251232661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__74
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 944
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bceb20ff30d8f70800000000000000
+      internalID: 9191006808330652553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__75
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 903
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bcbf7547e99a400800000000000000
+      internalID: 335973869745326851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__76
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 932
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425512b2354def920800000000000000
+      internalID: 3026089453310530852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__77
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 942
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6b9cce5f3851670800000000000000
+      internalID: 8508852163249288930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__78
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 937
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821cd4556f1d63830800000000000000
+      internalID: 4050655770789658920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__79
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 937
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d40135ce1ddf3d0800000000000000
+      internalID: -3171147749662896752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__80
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 896
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f10d21f9296c2310800000000000000
+      internalID: 1381594814556733936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__81
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 922
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96273cdcb8a407bb0800000000000000
+      internalID: -4940366826912386455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__82
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 921
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1041162a3d643df90800000000000000
+      internalID: -6930117526816746495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 927
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2d3273ea8d34d60800000000000000
+      internalID: 7873374816334762740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__84
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 914
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a085198e1e70f10800000000000000
+      internalID: 2236004128999868964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__85
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 929
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c32746d5bb4eede0800000000000000
+      internalID: -1302019997907344442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__86
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 870
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a107120a39ac415b0800000000000000
+      internalID: -5398467317914832870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__87
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 921
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0918a09d054a33f40800000000000000
+      internalID: 5707085819954233744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__88
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 914
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fe03d16455c5350800000000000000
+      internalID: 6006769762631216999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__89
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 922
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b886898bd0e14e90800000000000000
+      internalID: -7043101108720990024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__90
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 907
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabd78642e8c9cbf0800000000000000
+      internalID: -303490625699325011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__91
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 912
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90193d528fa16800800000000000000
+      internalID: 603956799488987292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__92
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 903
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011ceb4b64064bef0800000000000000
+      internalID: -93343835471560432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__93
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 614
+        width: 524
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a53dd3144d9f92a0800000000000000
+      internalID: -6728486402551630427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__94
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 895
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6ffe3c7ce084c60800000000000000
+      internalID: 7802502605567948465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__95
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 901
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ef3db34d190f210800000000000000
+      internalID: 1364751027816103546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__96
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 900
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27ed280da2d86ef0800000000000000
+      internalID: -114610149889546453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__97
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 897
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908fd11d610e28080800000000000000
+      internalID: -9186533901280086007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__98
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 899
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f5cab7fb0b01ef0800000000000000
+      internalID: -139417251988349137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__99
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 890
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a48ad5d78a4c40f0800000000000000
+      internalID: -1131447459107928919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__100
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 890
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcb9c9680dfb1540800000000000000
+      internalID: 4979852025564609784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__101
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 888
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fdbbaf1ca13bc30800000000000000
+      internalID: 4373869083544510356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__102
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 887
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb164914952c09d0800000000000000
+      internalID: -2806827149749249094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__103
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 891
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd89ede881fc00b0800000000000000
+      internalID: -5760964252904354348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__104
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 884
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b665edab1afe13210800000000000000
+      internalID: 1311092444445431403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__105
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 881
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f130bf1590b7e6990800000000000000
+      internalID: -7390834658508078305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__106
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 880
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be831c3a1a993670800000000000000
+      internalID: 8519009607615745718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__107
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 879
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef92ba5e842fdf30800000000000000
+      internalID: 4602437538021548015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__108
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 880
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e925349aa192a0c0800000000000000
+      internalID: -4565926910383281696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__109
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 524
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9841d8b2aff1d40800000000000000
+      internalID: 5557435530155952551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__110
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 382
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6516a728ca2a3ed20800000000000000
+      internalID: 3306665413227209046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__111
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 392
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e36718f1c61b0b30800000000000000
+      internalID: 4254519295328347111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__112
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 392
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521d95b8907d9b100800000000000000
+      internalID: 124366900721996069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__113
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 385
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c2409bad66e6930800000000000000
+      internalID: 4138358197193026655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__114
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 376
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a024cd5451e67a0800000000000000
+      internalID: -6382140232145171936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__115
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 377
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cf24188ce98a980800000000000000
+      internalID: -8527391310426735573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__116
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 379
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e5dd66b54f20f0800000000000000
+      internalID: -1139615530872348539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__117
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 389
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5806d27ef446da0800000000000000
+      internalID: -5952544953159612945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__118
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 390
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61429a320e2a22910800000000000000
+      internalID: 1811189083711022102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__119
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2
+        width: 501
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bb4b566a5436f30800000000000000
+      internalID: 4567571028057045806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__120
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 373
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80351678b1797d6d0800000000000000
+      internalID: -2965735685108968696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__121
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 374
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeb8f869d72b64f0800000000000000
+      internalID: -834529491224576280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__122
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 383
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb5fd40b1cf38170800000000000000
+      internalID: 8179658541211016173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__123
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1
+        width: 524
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0abb51e4e7c8320800000000000000
+      internalID: 2561561161904136352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__124
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 370
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d665c2d134a202c90800000000000000
+      internalID: -7196705736797432211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPAWNER_TENT__125
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 373
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f891f23783de77550800000000000000
+      internalID: 6158651842158860687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPAWNER_TENT__0: 6286996185445969893
+      SPAWNER_TENT__1: -6977781302534915248
+      SPAWNER_TENT__10: 180115338702292816
+      SPAWNER_TENT__100: 4979852025564609784
+      SPAWNER_TENT__101: 4373869083544510356
+      SPAWNER_TENT__102: -2806827149749249094
+      SPAWNER_TENT__103: -5760964252904354348
+      SPAWNER_TENT__104: 1311092444445431403
+      SPAWNER_TENT__105: -7390834658508078305
+      SPAWNER_TENT__106: 8519009607615745718
+      SPAWNER_TENT__107: 4602437538021548015
+      SPAWNER_TENT__108: -4565926910383281696
+      SPAWNER_TENT__109: 5557435530155952551
+      SPAWNER_TENT__11: 5897380979660317782
+      SPAWNER_TENT__110: 3306665413227209046
+      SPAWNER_TENT__111: 4254519295328347111
+      SPAWNER_TENT__112: 124366900721996069
+      SPAWNER_TENT__113: 4138358197193026655
+      SPAWNER_TENT__114: -6382140232145171936
+      SPAWNER_TENT__115: -8527391310426735573
+      SPAWNER_TENT__116: -1139615530872348539
+      SPAWNER_TENT__117: -5952544953159612945
+      SPAWNER_TENT__118: 1811189083711022102
+      SPAWNER_TENT__119: 4567571028057045806
+      SPAWNER_TENT__12: 1930944729568794672
+      SPAWNER_TENT__120: -2965735685108968696
+      SPAWNER_TENT__121: -834529491224576280
+      SPAWNER_TENT__122: 8179658541211016173
+      SPAWNER_TENT__123: 2561561161904136352
+      SPAWNER_TENT__124: -7196705736797432211
+      SPAWNER_TENT__125: 6158651842158860687
+      SPAWNER_TENT__13: 6097875862627674688
+      SPAWNER_TENT__14: -22877774065691958
+      SPAWNER_TENT__15: 7991287091583247451
+      SPAWNER_TENT__16: -1818087045436916573
+      SPAWNER_TENT__17: -7054477731076111359
+      SPAWNER_TENT__18: -1264669144284686430
+      SPAWNER_TENT__19: 846969983326667644
+      SPAWNER_TENT__2: 641093369747433472
+      SPAWNER_TENT__20: -1234965696130249522
+      SPAWNER_TENT__21: -8363661887701085966
+      SPAWNER_TENT__22: -6225741654615804168
+      SPAWNER_TENT__23: 8191382925746390943
+      SPAWNER_TENT__24: -8895969909708327240
+      SPAWNER_TENT__25: 6488570292819246542
+      SPAWNER_TENT__26: 7398756237183898282
+      SPAWNER_TENT__27: 5406229244482957464
+      SPAWNER_TENT__28: 4948955683238922439
+      SPAWNER_TENT__29: -2264426102798222210
+      SPAWNER_TENT__3: -4860526037037646750
+      SPAWNER_TENT__30: -6483724182942290123
+      SPAWNER_TENT__31: -2040286322382879541
+      SPAWNER_TENT__32: 4756065514276718058
+      SPAWNER_TENT__33: 813303935182057090
+      SPAWNER_TENT__34: -4957155062891550455
+      SPAWNER_TENT__35: -5437046531776774000
+      SPAWNER_TENT__36: -958238719973387779
+      SPAWNER_TENT__37: 8086374932480417378
+      SPAWNER_TENT__38: 4314729804633123878
+      SPAWNER_TENT__39: 3890983377145472864
+      SPAWNER_TENT__4: -5301183705623240997
+      SPAWNER_TENT__40: -7912299591186452274
+      SPAWNER_TENT__41: 43196867002496150
+      SPAWNER_TENT__42: 4916968139152883424
+      SPAWNER_TENT__43: 5116105010125039907
+      SPAWNER_TENT__44: 1489444433037246552
+      SPAWNER_TENT__45: 8378675375748495122
+      SPAWNER_TENT__46: 2416404107477673920
+      SPAWNER_TENT__47: 5332868562119184141
+      SPAWNER_TENT__48: -2281647616359992514
+      SPAWNER_TENT__49: 6907945486211733252
+      SPAWNER_TENT__5: -1800127083227905964
+      SPAWNER_TENT__50: 1971808964692779722
+      SPAWNER_TENT__51: 622232462610642615
+      SPAWNER_TENT__52: 7178861514238117905
+      SPAWNER_TENT__53: -7583993381033786461
+      SPAWNER_TENT__54: 2177347783640450386
+      SPAWNER_TENT__55: 4761119702729663479
+      SPAWNER_TENT__56: 3373182414547356349
+      SPAWNER_TENT__57: -4349281463589729100
+      SPAWNER_TENT__58: 2546641910724604901
+      SPAWNER_TENT__59: -7975383732011205877
+      SPAWNER_TENT__6: -6305754170550112393
+      SPAWNER_TENT__60: 8385025024774753752
+      SPAWNER_TENT__61: 6889942358502063666
+      SPAWNER_TENT__62: 4402600516365994483
+      SPAWNER_TENT__63: 4613278036462545216
+      SPAWNER_TENT__64: 1657636932546278977
+      SPAWNER_TENT__65: 337936932431364668
+      SPAWNER_TENT__66: 3301683553486732063
+      SPAWNER_TENT__67: 6717501320636963528
+      SPAWNER_TENT__68: 870754540385114060
+      SPAWNER_TENT__69: -6368767966650583386
+      SPAWNER_TENT__7: -4854238959981627229
+      SPAWNER_TENT__70: -100811257026760236
+      SPAWNER_TENT__71: -7820042015252851146
+      SPAWNER_TENT__72: -1201447394469801109
+      SPAWNER_TENT__73: -6224952423251232661
+      SPAWNER_TENT__74: 9191006808330652553
+      SPAWNER_TENT__75: 335973869745326851
+      SPAWNER_TENT__76: 3026089453310530852
+      SPAWNER_TENT__77: 8508852163249288930
+      SPAWNER_TENT__78: 4050655770789658920
+      SPAWNER_TENT__79: -3171147749662896752
+      SPAWNER_TENT__8: 3632626346612309859
+      SPAWNER_TENT__80: 1381594814556733936
+      SPAWNER_TENT__81: -4940366826912386455
+      SPAWNER_TENT__82: -6930117526816746495
+      SPAWNER_TENT__83: 7873374816334762740
+      SPAWNER_TENT__84: 2236004128999868964
+      SPAWNER_TENT__85: -1302019997907344442
+      SPAWNER_TENT__86: -5398467317914832870
+      SPAWNER_TENT__87: 5707085819954233744
+      SPAWNER_TENT__88: 6006769762631216999
+      SPAWNER_TENT__89: -7043101108720990024
+      SPAWNER_TENT__9: 8358466218045900176
+      SPAWNER_TENT__90: -303490625699325011
+      SPAWNER_TENT__91: 603956799488987292
+      SPAWNER_TENT__92: -93343835471560432
+      SPAWNER_TENT__93: -6728486402551630427
+      SPAWNER_TENT__94: 7802502605567948465
+      SPAWNER_TENT__95: 1364751027816103546
+      SPAWNER_TENT__96: -114610149889546453
+      SPAWNER_TENT__97: -9186533901280086007
+      SPAWNER_TENT__98: -139417251988349137
+      SPAWNER_TENT__99: -1131447459107928919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
