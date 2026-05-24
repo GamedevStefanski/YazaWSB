@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PlanszaWieksza_06_0: 5220692112180358009
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
